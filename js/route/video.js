@@ -1,5 +1,4 @@
 define('route/video', ['ember', 'app', 'loader'], function (Ember, App, Loader) {
-
     App.VideoRoute = Ember.Route.extend({
         setupController: function (controller, model) {
             Loader.loadLog(model);
