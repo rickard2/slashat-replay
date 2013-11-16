@@ -9,7 +9,11 @@
         <div class="col-md-4">
             <ul class="nav nav-pills nav-stacked">
             {{#each episode in content}}
-                {{#link-to 'video' episode tagName='li'}}<a>{{episode.name}}</a>{{/link-to}}
+                {{#link-to 'video' episode tagName='li'}}
+                    {{#link-to 'video' episode}}
+                        {{episode.name}}
+                    {{/link-to}}
+                {{/link-to}}
             {{/each}}
             </ul>
         </div>
