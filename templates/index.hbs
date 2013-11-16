@@ -1,0 +1,9 @@
+Videos:
+
+<ul>
+{{#each video in content}}
+    <li>{{#link-to 'video' video}}{{video.id}}{{/link-to}}</li>
+{{/each}}
+</ul>
+
+{{outlet}}

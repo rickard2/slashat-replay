@@ -1,0 +1,22 @@
+{
+  "name": "slashat-replay",
+  "version": "0.1.0",
+  "authors": [
+    "@rickard2"
+  ],
+  "license": "WTFPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.1.2",
+    "momentjs": "~2.4.0",
+    "bootstrap": "~3.0.2",
+    "requirejs": "~2.1.9"
+  }
+}
