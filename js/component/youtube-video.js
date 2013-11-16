@@ -10,9 +10,10 @@ define('component/youtube-video', ['app', 'ember'], function (App, Ember) {
 
     App.YoutubeVideoComponent = Ember.Component.extend({
         currentTime: 0,
-        interval: 100,
+        interval: 1000,
         width: 640,
         height: 390,
+        playerGuid: Ember.generateGuid(),
 
         loadPlayer: function () {
 
@@ -42,6 +43,14 @@ define('component/youtube-video', ['app', 'ember'], function (App, Ember) {
 
             this.queue();
         },
+
+        reset: function () {
+            this.set('playerGuid', Ember.generateGuid());
+            this.get('player').destroy();
+            this.set('currentTime', 0);
+            this.stop();
+            this.createPlayer();
+        }.observes('video_id'),
 
         queue: function () {
             this.set('timer', Ember.run.later(this, this.getTime, this.get('interval')));
