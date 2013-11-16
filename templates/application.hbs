@@ -1,0 +1,20 @@
+<div class="container">
+    <header class="page-header">
+        <h1>Slashat Chat Replay</h1>
+        <em>- För oss som sällan har tid att se slashat live</em>
+
+        <p class="pull-right"><small>Gaffla detta på <a href="https://github.com/rickard2/slashat-replay">github</a></small></p>
+    </header>
+    <div class="row">
+        <div class="col-md-4">
+            <ul class="nav nav-pills nav-stacked">
+            {{#each episode in content}}
+                {{#link-to 'video' episode tagName='li'}}<a>{{episode.name}}</a>{{/link-to}}
+            {{/each}}
+            </ul>
+        </div>
+        <div class="col-md-8">
+            {{outlet}}
+        </div>
+    </div>
+</div>
