@@ -100,6 +100,8 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-ember-templates');
 
+    grunt.registerTask('build', ['emberTemplates']);
+
     // Default task.
     grunt.registerTask('default', ['jshint', 'concat', 'uglify']);
 
