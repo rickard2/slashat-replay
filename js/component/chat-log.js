@@ -1,7 +1,7 @@
 define('component/chat-log', ['app', 'ember'], function (App, Ember) {
 
     App.ChatLogComponent = Ember.Component.extend({
-        classNames: ['chat-log'],
+        classNames: ['chat-log', 'well', 'well-sm'],
         currentEntries: function () {
 
             var currentTime = this.get('currentTime');

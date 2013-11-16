@@ -1,3 +1,3 @@
 {{#each entry in currentEntries}}
-    <p>{{entry.time}} {{entry.user}}: {{entry.text}}</p>
+    <p>{{moment-format format="HH:mm" value=entry.time}} {{entry.user}}: {{entry.text}}</p>
 {{/each}}
