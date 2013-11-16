@@ -1,3 +1,9 @@
-{{#each entry in currentEntries}}
-    <p>{{moment-format format="HH:mm" value=entry.time}} {{entry.user}}: {{entry.text}}</p>
-{{/each}}
+<div class="well well-sm">
+    <ul class="list-unstyled">
+    {{#each entry in currentEntries}}
+        <li>{{moment-format format="HH:mm" value=entry.time}} {{entry.user}}: {{entry.text}}</li>
+    {{/each}}
+    </ul>
+</div>
+
+<label class="pull-right">{{input type="checkbox" checked=autoScroll}} Scrolla automatiskt</label>
