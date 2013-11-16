@@ -1,7 +1,7 @@
 # Slashat Chat Replay
 
 [![Code Climate](https://codeclimate.com/github/rickard2/slashat-replay.png)](https://codeclimate.com/github/rickard2/slashat-replay)
-
+[![Build Status](https://travis-ci.org/rickard2/slashat-replay.png?branch=master)](https://travis-ci.org/rickard2/slashat-replay)
 
 Häng med i vad som sades i chatten i efterhand. 
 
