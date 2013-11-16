@@ -1,16 +1,28 @@
-För utveckling:
+# Slashat Chat Replay
 
+Häng med i vad som sades i chatten i efterhand. 
+
+
+### För användare
+https://barney.0x539.se/slashat-replay/
+
+
+### Utveckling
+
+````
 $ bower install
 $ npm install
 $ grunt watch emberTemplates
+````
 
+### Deployment
 
-För deployment:
-
+````
+$ (ovanstående)
 $ grunt build
+````
 
-
-För att fylla på med data:
+### Fylla på med data
 
 1. Lägg till nya avsnittet i `data/episodes.json`
 2. Lägg till loggen i `data/[avsnittets youtube id].json`
