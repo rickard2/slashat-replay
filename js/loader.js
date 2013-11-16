@@ -1,4 +1,4 @@
-define('loader', ['ember', 'app', 'model/video', 'model/log_entry'], function (Ember, App, Video, LogEntry) {
+define('loader', ['ember', 'app', 'model/video', 'model/log_entry', 'moment'], function (Ember, App, Video, LogEntry, moment) {
 
     var episodes;
 

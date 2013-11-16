@@ -45,14 +45,17 @@ module.exports = function (grunt) {
                 eqnull: true,
                 browser: true,
                 globals: {
-                    jQuery: true
+                    jQuery: true,
+                    define: true,
+                    require: true,
+                    YT: true
                 }
             },
             gruntfile: {
                 src: 'Gruntfile.js'
             },
-            lib_test: {
-                src: ['lib/**/*.js', 'test/**/*.js']
+            js: {
+                src: ['js/**/*.js']
             }
         },
         watch: {
@@ -60,8 +63,8 @@ module.exports = function (grunt) {
                 files: '<%= jshint.gruntfile.src %>',
                 tasks: ['jshint:gruntfile']
             },
-            lib_test: {
-                files: '<%= jshint.lib_test.src %>',
+            js: {
+                files: '<%= jshint.js.src %>',
                 tasks: ['jshint:lib_test', 'qunit']
             },
             emberTemplates: {
