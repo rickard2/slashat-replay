@@ -40,6 +40,7 @@ require([
 
     'component/chat-log',
     'component/youtube-video',
+    'component/moment-format',
 
     'controller/video',
 
