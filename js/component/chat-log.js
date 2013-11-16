@@ -21,9 +21,16 @@ define('component/chat-log', ['app', 'ember'], function (App, Ember) {
 
             if (count !== lastCount) {
 
-                var splice = (count - lastCount) * -1;
+                if (count > lastCount) {
+                    var splice = (count - lastCount) * -1;
+                    var delta = matched.splice(splice);
+                    this.get('currentEntries').pushObjects(delta);
+                } else {
+                    while (this.get('currentEntries.length') > count) {
+                        this.get('currentEntries').removeObject(this.get('currentEntries.lastObject'));
+                    }
+                }
 
-                this.get('currentEntries').pushObjects(matched.splice(splice));
                 this.set('lastCount', count);
 
                 Ember.run.next(function () {
