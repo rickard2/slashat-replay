@@ -1,0 +1,17 @@
+Stats:
+
+<ul>
+<li>Antal meddelanden: {{messageCount}}
+<li>Meddelanden per minut: {{messagesPerMinute}}
+<li>Flest meddelanden: {{mostMessagesData.user}} ({{mostMessagesData.count}})
+<li>Antal deltagare: {{userCount}}
+<li>Antal anonyma: {{anonymousCount}} ({{anonymousPercent}}%)
+</ul>
+
+Stortjötarna:
+
+<ol>
+{{#each item in topList}}
+    <li>{{item.user}}: {{item.count}} meddelanden
+{{/each}}
+</ol>

@@ -39,6 +39,7 @@ require([
     'router',
 
     'component/chat-log',
+    'component/chat-statistics',
     'component/youtube-video',
     'component/moment-format',
 

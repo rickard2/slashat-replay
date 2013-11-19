@@ -7,7 +7,8 @@ define('controller/video', ['app', 'ember', 'moment'], function (App, Ember, mom
             m.add('seconds', this.get('playerTime'));
 
             return m.toDate();
-        }.property('playerTime', 'start')
+        }.property('playerTime', 'start'),
+        currentEntries: []
     });
 
 });
