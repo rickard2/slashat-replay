@@ -1,2 +1,8 @@
+{{#unless exactStart}}
+    <div class="alert alert-warning">
+        Detta är ett gammalt avsnitt vilket innebär att vi inte håller reda på exakt starttid för videoklippet.
+        Detta gör att chatten och videon kan vara mer eller mindre ur sync.
+    </div>
+{{/unless}}
 {{youtube-video video_id=id currentTime=playerTime}}
 {{chat-log entries=log currentTime=currentTime}}
