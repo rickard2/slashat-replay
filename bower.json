@@ -14,9 +14,9 @@
     "tests"
   ],
   "dependencies": {
-    "ember": "~1.1.2",
-    "momentjs": "~2.4.0",
-    "bootstrap": "~3.0.2",
-    "requirejs": "~2.1.9"
+    "ember": "*",
+    "momentjs": "*",
+    "bootstrap": "*",
+    "requirejs": "*"
   }
 }
