@@ -36,7 +36,7 @@ require([
     'templates',
 
     // Router will import all routes
-    'router',
+    '_router',
 
     'component/chat-log',
     'component/youtube-video',
@@ -48,5 +48,6 @@ require([
     'model/video'
 ],
     function (App) {
+        App.advanceReadiness();
     }
 );

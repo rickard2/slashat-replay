@@ -1,3 +1,7 @@
 define('app', ['ember'], function (Ember) {
-    return Ember.Application.create();
+    var App = Ember.Application.create();
+
+    App.deferReadiness();
+
+    return App;
 });
