@@ -21,6 +21,7 @@ module.exports = function (grunt) {
                     jQuery: true,
                     define: true,
                     require: true,
+                    requirejs: true,
                     YT: true
                 }
             },
