@@ -5,7 +5,7 @@ require.config
 ({
     baseUrl: 'js/',
     paths: {
-        jquery: '../bower_components/jquery/jquery',
+        jquery: '../bower_components/jquery/dist/jquery',
         ember: '../bower_components/ember/ember.prod',
         handlebars: '../bower_components/handlebars/handlebars',
         moment: '../bower_components/momentjs/moment',
