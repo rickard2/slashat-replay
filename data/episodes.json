@@ -1,22 +1,49 @@
 [
+    {"id": "XHWeY7hHdKI", "name": "#286 - Watch this!", "start": "2014-09-09 21:32:17", "exactStart": true},
+    {"id": "BHNv-2zCO6c", "name": "#285 - B\u00e9chameltestet!", "start": "2014-09-02 21:02:42", "exactStart": true},
+    {"id": "RqFnoi1fiUY", "name": "#284 - Amazon with a Twitch!", "start": "2014-08-26 20:14:51", "exactStart": true},
+    {"id": "bwtBfWkSIHk", "name": "#283 - No nudity please!", "start": "2014-08-19 20:00:00", "exactStart": false},
     {
-        "id": "xCAGONDSJCc",
-        "exactStart": true,
-        "start": "2014-06-17 20:05:37",
-        "name": "#274 - Lagrat!"
+        "id": "OaHWTpKiDRA",
+        "name": "#282 - Vi \u00e4r v\u00e4l inga proffs heller...?",
+        "start": "2014-08-12 20:02:34",
+        "exactStart": true
+    },
+    {"id": "04BJOChqoOs", "name": "#281: Vem andas?", "start": "2014-08-05 20:00:00", "exactStart": false},
+    {
+        "id": "geJZ5gbqLmU",
+        "name": "#280: Jag har aldrig pratat med en enda m\u00e4nniska\u2026",
+        "start": "2014-07-29 20:04:08",
+        "exactStart": true
     },
     {
-        "id": "uVILT4YsR44",
-        "exactStart": true,
-        "start": "2014-06-10 20:01:23",
-        "name": "#273 - ViE3!"
+        "id": "zcXoCwDbtO0",
+        "name": "#279: Badpojkar i semestermode!",
+        "start": "2014-07-22 20:06:37",
+        "exactStart": true
     },
     {
-        "id": "eJIbnAsEYCg",
-        "exactStart": true,
-        "start": "2014-06-03 20:04:38",
-        "name": "#272 - Yo-seh-mih-tee!"
+        "id": "G7MJFKQAES4",
+        "name": "#278: N\u00e4r Android \u00e4r borta dansar Apple p\u00e5 borden!",
+        "start": "2014-07-15 20:05:29",
+        "exactStart": true
     },
+    {
+        "id": "n9l6fYLP7KE",
+        "name": "#277: Jag r\u00e5nar banker p\u00e5 fritiden!",
+        "start": "2014-07-08 20:06:12",
+        "exactStart": true
+    },
+    {"id": "jjTfJn0w0vE", "name": "#276 - Sommarspecial 2014", "start": "2014-07-01 20:00:00", "exactStart": false},
+    {
+        "id": "h096N-MEh-c",
+        "name": "#275 - Funktion g\u00e5r f\u00f6re idioti!",
+        "start": "2014-06-24 20:00:49",
+        "exactStart": true
+    },
+    {"id": "xCAGONDSJCc", "exactStart": true, "start": "2014-06-17 20:05:37", "name": "#274 - Lagrat!"},
+    {"id": "uVILT4YsR44", "exactStart": true, "start": "2014-06-10 20:01:23", "name": "#273 - ViE3!"},
+    {"id": "eJIbnAsEYCg", "exactStart": true, "start": "2014-06-03 20:04:38", "name": "#272 - Yo-seh-mih-tee!"},
     {
         "id": "wOlyDkYWz1k",
         "exactStart": true,
@@ -27,38 +54,29 @@
         "id": "awXg7bMFWhQ",
         "exactStart": true,
         "start": "2014-05-20 20:01:43",
-        "name": "#270 - I allmänhet hatar jag prylar!"
+        "name": "#270 - I allm\u00e4nhet hatar jag prylar!"
     },
     {
         "id": "U5gd8BjM1o4",
         "exactStart": true,
         "start": "2014-05-13 20:05:36",
-        "name": "#269 - Två pandor i motljus!"
+        "name": "#269 - Tv\u00e5 pandor i motljus!"
     },
     {
         "id": "BZ4CNo9N338",
         "exactStart": true,
         "start": "2014-05-06 20:01:47",
-        "name": "#268 - Norge har EN militär!"
+        "name": "#268 - Norge har EN milit\u00e4r!"
     },
+    {"id": "Gaa_P3_z9Fc", "name": "#267 - ET found home!", "start": "2014-04-29 20:00:00", "exactStart": false},
     {
         "id": "rlMUu7YmyS4",
         "exactStart": true,
         "start": "2014-04-22 20:00:47",
         "name": "#266 - Tommie gillar inte pollen!"
     },
-    {
-        "id": "Y-CPBgAu4As",
-        "exactStart": true,
-        "start": "2014-04-15 20:08:25",
-        "name": "#265 - Nördar i omlopp!"
-    },
-    {
-        "id": "OL0oqBghwro",
-        "exactStart": true,
-        "start": "2014-04-08 20:01:26",
-        "name": "#264 - One happy puppy!"
-    },
+    {"id": "Y-CPBgAu4As", "exactStart": true, "start": "2014-04-15 20:08:25", "name": "#265 - N\u00f6rdar i omlopp!"},
+    {"id": "OL0oqBghwro", "exactStart": true, "start": "2014-04-08 20:01:26", "name": "#264 - One happy puppy!"},
     {
         "id": "uqKRghF1BTw",
         "exactStart": true,
@@ -69,158 +87,58 @@
         "id": "EjlwqkAdNaE",
         "exactStart": true,
         "start": "2014-03-25 20:04:16",
-        "name": "#262 - 5 år med Slashat.se"
+        "name": "#262 - 5 \u00e5r med Slashat.se"
     },
-    {
-        "id": "_5ZPtxgTY4M",
-        "exactStart": true,
-        "start": "2014-03-18 20:02:10",
-        "name": "#261 - PjuPjuDie!"
-    },
-    {
-        "id": "-k1aDtO7oRw",
-        "exactStart": true,
-        "start": "2014-03-11 20:03:32",
-        "name": "#260 - Jordgubbskebab!"
-    },
-    {
-        "id": "IF7nIavH76Q",
-        "exactStart": true,
-        "start": "2014-03-04 20:02:57",
-        "name": "#259 - Spunk!"
-    },
+    {"id": "_5ZPtxgTY4M", "exactStart": true, "start": "2014-03-18 20:02:10", "name": "#261 - PjuPjuDie!"},
+    {"id": "-k1aDtO7oRw", "exactStart": true, "start": "2014-03-11 20:03:32", "name": "#260 - Jordgubbskebab!"},
+    {"id": "IF7nIavH76Q", "exactStart": true, "start": "2014-03-04 20:02:57", "name": "#259 - Spunk!"},
     {
         "id": "yAZ9lj35Se4",
         "exactStart": true,
         "start": "2014-02-25 20:02:01",
         "name": "#258 - Lifarens guide till Galaxy!"
     },
-    {
-        "id": "B1xjN43eLUY",
-        "exactStart": true,
-        "start": "2014-02-18 20:04:34",
-        "name": "#257 - .movingon!"
-    },
-    {
-        "id": "FJ0VUtNcWd0",
-        "exactStart": true,
-        "start": "2014-02-11 20:00:39",
-        "name": "#256 - Var dum med måtta!"
-    },
+    {"id": "B1xjN43eLUY", "exactStart": true, "start": "2014-02-18 20:04:34", "name": "#257 - .movingon!"},
+    {"id": "FJ0VUtNcWd0", "exactStart": true, "start": "2014-02-11 20:00:39", "name": "#256 - Var dum med m\u00e5tta!"},
     {
         "id": "OijY84UegLQ",
         "exactStart": true,
         "start": "2014-02-04 20:02:00",
         "name": "#255 - Bara det roliga med herpes!"
     },
-    {
-        "id": "VUq4glE8afg",
-        "exactStart": true,
-        "start": "2014-01-28 20:01:52",
-        "name": "#254 - Fiddrik & Felip!"
-    },
-    {
-        "id": "YqDNcI33auk",
-        "exactStart": true,
-        "start": "2014-01-21 20:04:09",
-        "name": "#253 - Munbabbel"
-    },
-    {
-        "id": "_kP37puECPg",
-        "exactStart": true,
-        "start": "2014-01-14 20:06:08",
-        "name": "#252 - Rumptempererad!"
-    },
+    {"id": "VUq4glE8afg", "exactStart": true, "start": "2014-01-28 20:01:52", "name": "#254 - Fiddrik & Felip!"},
+    {"id": "YqDNcI33auk", "exactStart": true, "start": "2014-01-21 20:04:09", "name": "#253 - Munbabbel"},
+    {"id": "_kP37puECPg", "exactStart": true, "start": "2014-01-14 20:06:08", "name": "#252 - Rumptempererad!"},
     {
         "id": "gziOkbHrzxE",
         "exactStart": true,
         "start": "2014-01-07 20:02:41",
-        "name": "#251 - S06E01 Sömlös i Göteborg!"
+        "name": "#251 - S06E01 S\u00f6ml\u00f6s i G\u00f6teborg!"
     },
-    {
-        "id": "C74drh6QrnU",
-        "exactStart": true,
-        "start": "2013-12-31 20:00:00",
-        "name": "#250 - Årsshowen 2013!"
-    },
-    {
-        "id": "CfRagAD3hto",
-        "exactStart": true,
-        "start": "2013-12-24 20:00:00",
-        "name": "#249 - God Julafton!"
-    },
-    {
-        "id": "s6fbGTqqy2k",
-        "exactStart": true,
-        "start": "2013-12-17 20:05:36",
-        "name": "#248 - Allt kan inte gifta sig"
-    },
-    {
-        "id": "tR1YihVHCMs",
-        "exactStart": true,
-        "start": "2013-12-10 20:02:18",
-        "name": "#247 - Lyser upp med svart!"
-    },
+    {"id": "C74drh6QrnU", "exactStart": true, "start": "2013-12-31 20:00:00", "name": "#250 - \u00c5rsshowen 2013!"},
+    {"id": "CfRagAD3hto", "exactStart": true, "start": "2013-12-24 20:00:00", "name": "#249 - God Julafton!"},
+    {"id": "s6fbGTqqy2k", "exactStart": true, "start": "2013-12-17 20:05:36", "name": "#248 - Allt kan inte gifta sig"},
+    {"id": "tR1YihVHCMs", "exactStart": true, "start": "2013-12-10 20:02:18", "name": "#247 - Lyser upp med svart!"},
     {
         "id": "HYEJr_7cYko",
         "exactStart": true,
         "start": "2013-12-03 20:02:39",
-        "name": "#246 - Du var ändå min andra..."
+        "name": "#246 - Du var \u00e4nd\u00e5 min andra..."
     },
-    {
-        "id": "ymcu0bffnao",
-        "exactStart": true,
-        "start": "2013-11-26 20:02:57",
-        "name": "#245 - *bold*"
-    },
-    {
-        "id": "do2WtnFIVM8",
-        "exactStart": true,
-        "start": "2013-11-19 20:04:28",
-        "name": "#244 - RAW!"
-    },
-    {
-        "id": "uWr0UJSnZFg",
-        "exactStart": false,
-        "start": "2013-11-12 20:00:00",
-        "name": "#243: Stig Jobs!"
-    },
-    {
-        "id": "LNPhtZcGAuE",
-        "exactStart": false,
-        "start": "2013-11-05 20:00:00",
-        "name": "#242: MeetApp!"
-    },
-    {
-        "id": "cMZqMxNlj7w",
-        "exactStart": false,
-        "start": "2013-10-29 20:00:00",
-        "name": "#241: Havericks!"
-    },
-    {
-        "name": "#240: On Air!",
-        "id": "7J0ND28YJao",
-        "exactStart": false,
-        "start": "2013-10-22 20:00:00"
-    },
-    {
-        "name": "#239: Berlin Syndrome!",
-        "id": "Hnb2qwPszbo",
-        "exactStart": false,
-        "start": "2013-10-15 20:00:00"
-    },
+    {"id": "ymcu0bffnao", "exactStart": true, "start": "2013-11-26 20:02:57", "name": "#245 - *bold*"},
+    {"id": "do2WtnFIVM8", "exactStart": true, "start": "2013-11-19 20:04:28", "name": "#244 - RAW!"},
+    {"id": "uWr0UJSnZFg", "exactStart": false, "start": "2013-11-12 20:00:00", "name": "#243: Stig Jobs!"},
+    {"id": "LNPhtZcGAuE", "exactStart": false, "start": "2013-11-05 20:00:00", "name": "#242: MeetApp!"},
+    {"id": "cMZqMxNlj7w", "exactStart": false, "start": "2013-10-29 20:00:00", "name": "#241: Havericks!"},
+    {"name": "#240: On Air!", "id": "7J0ND28YJao", "exactStart": false, "start": "2013-10-22 20:00:00"},
+    {"name": "#239: Berlin Syndrome!", "id": "Hnb2qwPszbo", "exactStart": false, "start": "2013-10-15 20:00:00"},
     {
         "name": "#238: Hack f\u00f6r allt Adobe!",
         "id": "x_qZsbTbNo8",
         "exactStart": false,
         "start": "2013-10-08 20:00:00"
     },
-    {
-        "name": "#237: iOS sjuk",
-        "id": "QLIHmQNTzI0",
-        "exactStart": false,
-        "start": "2013-10-01 20:00:00"
-    },
+    {"name": "#237: iOS sjuk", "id": "QLIHmQNTzI0", "exactStart": false, "start": "2013-10-01 20:00:00"},
     {
         "name": "#236: 50 \u00e5r sedan Half-Life 2 sl\u00e4pptes!",
         "id": "wa8gcxb6FBU",
@@ -233,136 +151,51 @@
         "exactStart": false,
         "start": "2013-09-17 20:00:00"
     },
-    {
-        "name": "#234: Apple s\u00e4ljer guld!",
-        "id": "NKDkJGFH0wI",
-        "exactStart": false,
-        "start": "2013-09-10 20:00:00"
-    },
+    {"name": "#234: Apple s\u00e4ljer guld!", "id": "NKDkJGFH0wI", "exactStart": false, "start": "2013-09-10 20:00:00"},
     {
         "name": "#233: Go \u00e5 gla, Android Kexchoklad!",
         "id": "5x7kWxIfsfc",
         "exactStart": false,
         "start": "2013-09-03 20:00:00"
     },
-    {
-        "name": "#232: Du \u00e4lskling...",
-        "id": "wZlfmtpDelU",
-        "exactStart": false,
-        "start": "2013-08-27 20:00:00"
-    },
-    {
-        "name": "#231: Double fist pump!",
-        "id": "qBwdOIAwEx8",
-        "exactStart": false,
-        "start": "2013-08-20 20:00:00"
-    },
-    {
-        "name": "#230: eDrott!",
-        "id": "dGvVRUxsWag",
-        "exactStart": false,
-        "start": "2013-08-13 20:00:00"
-    },
-    {
-        "name": "#229: vote.slashat.se!",
-        "id": "WLCQBQ6Y6tU",
-        "exactStart": false,
-        "start": "2013-07-30 20:00:00"
-    },
+    {"name": "#232: Du \u00e4lskling...", "id": "wZlfmtpDelU", "exactStart": false, "start": "2013-08-27 20:00:00"},
+    {"name": "#231: Double fist pump!", "id": "qBwdOIAwEx8", "exactStart": false, "start": "2013-08-20 20:00:00"},
+    {"name": "#230: eDrott!", "id": "dGvVRUxsWag", "exactStart": false, "start": "2013-08-13 20:00:00"},
+    {"name": "#229: vote.slashat.se!", "id": "WLCQBQ6Y6tU", "exactStart": false, "start": "2013-07-30 20:00:00"},
     {
         "name": "#228: H\u00f6guppl\u00f6staste!",
         "id": "qSJdKG9IZZQ",
         "exactStart": false,
         "start": "2013-07-23 20:00:00"
     },
-    {
-        "name": "#227: Pornografera allt!",
-        "id": "flwAahrcZTM",
-        "exactStart": false,
-        "start": "2013-07-16 20:00:00"
-    },
-    {
-        "name": "#226: Sommarspecial 2013!",
-        "id": "9XuPG63LN2w",
-        "exactStart": false,
-        "start": "2013-07-09 20:00:00"
-    },
-    {
-        "name": "#225: slashat.srt!",
-        "id": "7v9ypjL6OxQ",
-        "exactStart": false,
-        "start": "2013-07-02 20:00:00"
-    },
-    {
-        "name": "#224: Alta la vista!",
-        "id": "2KQcneTJyds",
-        "exactStart": false,
-        "start": "2013-06-25 20:00:00"
-    },
-    {
-        "name": "#223: I G\u00f6ttingen!",
-        "id": "oxG33mv7gIA",
-        "exactStart": false,
-        "start": "2013-06-18 20:00:00"
-    },
-    {
-        "name": "#222: #CRUISECONTROLFORCOOL",
-        "id": "6u3cSvpYc8I",
-        "exactStart": false,
-        "start": "2013-06-11 20:00:00"
-    },
-    {
-        "name": "#221: WWDWhat?",
-        "id": "RuJBW1JlD00",
-        "exactStart": false,
-        "start": "2013-06-04 20:00:00"
-    },
-    {
-        "name": "#220: Hej Array(.se)!",
-        "id": "QHPE0jRtClI",
-        "exactStart": false,
-        "start": "2013-05-28 20:00:00"
-    },
+    {"name": "#227: Pornografera allt!", "id": "flwAahrcZTM", "exactStart": false, "start": "2013-07-16 20:00:00"},
+    {"name": "#226: Sommarspecial 2013!", "id": "9XuPG63LN2w", "exactStart": false, "start": "2013-07-09 20:00:00"},
+    {"name": "#225: slashat.srt!", "id": "7v9ypjL6OxQ", "exactStart": false, "start": "2013-07-02 20:00:00"},
+    {"name": "#224: Alta la vista!", "id": "2KQcneTJyds", "exactStart": false, "start": "2013-06-25 20:00:00"},
+    {"name": "#223: I G\u00f6ttingen!", "id": "oxG33mv7gIA", "exactStart": false, "start": "2013-06-18 20:00:00"},
+    {"name": "#222: #CRUISECONTROLFORCOOL", "id": "6u3cSvpYc8I", "exactStart": false, "start": "2013-06-11 20:00:00"},
+    {"name": "#221: WWDWhat?", "id": "RuJBW1JlD00", "exactStart": false, "start": "2013-06-04 20:00:00"},
+    {"name": "#220: Hej Array(.se)!", "id": "QHPE0jRtClI", "exactStart": false, "start": "2013-05-28 20:00:00"},
     {
         "name": "#219: Alla lyssnar p\u00e5 Slashat!",
         "id": "TACimyB23_c",
         "exactStart": false,
         "start": "2013-05-21 20:00:00"
     },
-    {
-        "name": "#218: Slashat One!",
-        "id": "3cYYaavGSWM",
-        "exactStart": false,
-        "start": "2013-05-14 20:00:00"
-    },
-    {
-        "name": "#217: Titta i holken!",
-        "id": "q1BPZ5NuA5M",
-        "exactStart": false,
-        "start": "2013-05-07 20:00:00"
-    },
+    {"name": "#218: Slashat One!", "id": "3cYYaavGSWM", "exactStart": false, "start": "2013-05-14 20:00:00"},
+    {"name": "#217: Titta i holken!", "id": "q1BPZ5NuA5M", "exactStart": false, "start": "2013-05-07 20:00:00"},
     {
         "name": "#216: Don't be an 8-bit square!",
         "id": "geFrkHaIU7k",
         "exactStart": false,
         "start": "2013-04-30 20:00:00"
     },
-    {
-        "name": "#215: \u221e!",
-        "id": "xViBbtr09JQ",
-        "exactStart": false,
-        "start": "2013-04-23 20:00:00"
-    },
+    {"name": "#215: \u221e!", "id": "xViBbtr09JQ", "exactStart": false, "start": "2013-04-23 20:00:00"},
     {
         "name": "#214: Infantil douche, tycker snyggjeppe!",
         "id": "B52I9UXbTBs",
         "exactStart": false,
         "start": "2013-04-16 20:00:00"
     },
-    {
-        "name": "#213: Frippan liksom!",
-        "id": "-kUGSuIiIkA",
-        "exactStart": false,
-        "start": "2013-04-09 20:00:00"
-    }
+    {"name": "#213: Frippan liksom!", "id": "-kUGSuIiIkA", "exactStart": false, "start": "2013-04-09 20:00:00"}
 ]
