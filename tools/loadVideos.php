@@ -15,6 +15,11 @@ function isAdded($id)
     return false;
 }
 
+function skip($id)
+{
+    return in_array($id, ['GYdKfsqHPMs']);
+}
+
 function getName($item)
 {
     $name = $item->title;
@@ -112,7 +117,7 @@ foreach ($items as $item) {
 
         $log = getLog($episode);
 
-        if (!$log) {
+        if (!$log && !skip($id)) {
             var_dump($episode);
             die('no log found for ' . $id);
         }
